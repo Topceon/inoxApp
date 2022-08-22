@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-bemu#7g_73#$o&cvi2i1i+y#8z)n!o6ge93es6te(3#mh!9nu6
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
